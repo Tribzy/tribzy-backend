@@ -1,0 +1,44 @@
+{
+  "communities": [
+    {
+      "name": "BLVD",
+      "distance_from_UF": "4 miles",
+      "type": "Private",
+      "furnishing": "Furnished",
+      "rating": 4.5,
+      "image_url": "https://example.com/images/blvd.jpg"
+    },
+    {
+      "name": "Stoneridge",
+      "distance_from_UF": "4 miles",
+      "type": "Shared",
+      "furnishing": "Unfurnished",
+      "rating": 3.5,
+      "image_url": "https://example.com/images/stoneridge.jpg"
+    },
+    {
+      "name": "Centric",
+      "distance_from_UF": "4 miles",
+      "type": "Private",
+      "furnishing": "Furnished",
+      "rating": 3.5,
+      "image_url": "https://example.com/images/centric.jpg"
+    },
+    {
+      "name": "Lexington",
+      "distance_from_UF": "4 miles",
+      "type": "Private",
+      "furnishing": "Furnished",
+      "rating": 4,
+      "image_url": "https://example.com/images/lexington.jpg"
+    },
+    {
+      "name": "Greenwich",
+      "distance_from_UF": "4 miles",
+      "type": "Shared",
+      "furnishing": "Unfurnished",
+      "rating": 4,
+      "image_url": "https://example.com/images/greenwich.jpg"
+    }
+  ]
+}
