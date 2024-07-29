@@ -6,7 +6,7 @@
       "type": "Private",
       "furnishing": "Furnished",
       "rating": 4.5,
-      "image_url": "https://example.com/images/blvd.jpg"
+      "image_url": "https://www.blvdgnv.com/wp-content/uploads/2022/08/BLVD_Amenities_0000_BLVD_Hero_PoolandTrees-768x512.jpg"
     },
     {
       "name": "Stoneridge",
@@ -14,7 +14,7 @@
       "type": "Shared",
       "furnishing": "Unfurnished",
       "rating": 3.5,
-      "image_url": "https://example.com/images/stoneridge.jpg"
+      "image_url": "https://resource.rentcafe.com/image/upload/q_auto,f_auto/s3/2/129655/emmer%20management-stoneridge-pns%204.jpg"
     },
     {
       "name": "Centric",
@@ -22,7 +22,7 @@
       "type": "Private",
       "furnishing": "Furnished",
       "rating": 3.5,
-      "image_url": "https://example.com/images/centric.jpg"
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/zweRv7p9Y52fUN2pt6VD0g/348s.jpg"
     },
     {
       "name": "Lexington",
@@ -30,7 +30,7 @@
       "type": "Private",
       "furnishing": "Furnished",
       "rating": 4,
-      "image_url": "https://example.com/images/lexington.jpg"
+      "image_url": "https://www.swamprentals.com/uploads/images/Lexington-Crossing-Apartments_120281.jpg"
     },
     {
       "name": "Greenwich",
@@ -38,7 +38,7 @@
       "type": "Shared",
       "furnishing": "Unfurnished",
       "rating": 4,
-      "image_url": "https://example.com/images/greenwich.jpg"
+      "image_url": "https://rentpath-res.cloudinary.com/$img_current/t_3x2_webp_xl/t_unpaid/d16b7eee2e817d519d9e3e3a81b67bc0"
     }
   ]
 }
