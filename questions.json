@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "What is your Domain?",
+      "options": [
+        "🔒 Cybersecurity",
+        "☁️ SaaS (Software as a Service)",
+        "🌿 Green Technology",
+        "🍴 Food and Beverage",
+        "🚚 Logistics and Supply Chain",
+        "🎬 Entertainment",
+        "🧑‍💼 HR and Recruitment",
+        "📱 Mobile Applications",
+        "🚗 Automotive",
+        "🌐 IoT (Internet of Things)",
+        "⚖️ Legal Tech",
+        "📋 Insurtech",
+        "🤖 Robotics",
+        "⌚ Wearable Technology",
+        "❤️ Non-Profit and Social Impact"
+      ]
+    },
+    {
+      "question": "What are you working on?",
+      "options": [
+        "🎨 Working on a creative endeavor",
+        "💻 Developing a tech product",
+        "📚 Writing a book or creating content",
+        "🎨 Designing digital art or graphics",
+        "👨‍👩‍👧‍👦 Managing a community or online group",
+        "🎮 Creating a game or immersive experience",
+        "Other: ____________________"
+      ]
+    },
+    {
+      "question": "Who do you want to connect with?",
+      "options": [
+        "💼 Potential business partners",
+        "📈 Investors and venture capitalists",
+        "⚙️ Technical co-founders or developers",
+        "📣 Marketing and social media experts",
+        "🎨 Designers and creatives",
+        "🧠 Mentors and advisors",
+        "🚀 Sales and business development pros",
+        "✨ Influencers and content creators",
+        "💡 Peer innovators and cultivators",
+        "💬 Those ready to give feedback and insights",
+        "Other: ____________________"
+      ]
+    }
+  ]
+}
