@@ -26,5 +26,12 @@
     "cost_per_night": "$200",
     "rating": 8.7,
     "image_url": "https://www.hotelzephyrsf.com/images/hotel-default.jpg"
+  },
+  {
+    "name": "Hotel Caza Fisherman's Wharf",
+    "distance_from_venue": "1.7 miles",
+    "cost_per_night": "$149",
+    "rating": 8.4,
+    "image_url": "https://www.hotelcaza.com/images/default.jpg"
   }
 ]
