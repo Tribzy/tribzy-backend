@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Chapter San Francisco",
+    "distance_from_venue": "2.2 miles",
+    "cost_per_night": "$63",
+    "rating": 9.4,
+    "image_url": "https://www.chaptersanfrancisco.com/images/economy-bunk.jpg",
+    "address": "1533 Franklin St, San Francisco, USA",
+    "amenities": [
+      "Free WiFi",
+      "Luggage storage",
+      "Laundry facilities",
+      "Shared bathrooms and showers",
+      "Personal lockers",
+      "Heating",
+      "Non-smoking rooms",
+      "Co-working stations"
+    ],
+    "check_in_time": "4:00 PM",
+    "check_out_time": "10:00 AM",
+    "cancellation_policy": "5 days before arrival"
+  },
+  {
+    "name": "HI San Francisco Downtown Hostel",
+    "distance_from_venue": "2.1 miles",
+    "cost_per_night": "$35",
+    "rating": 8.8,
+    "image_url": "https://www.hihostels.com/web_images/default-hostel.png",
+    "address": "312 Mason St, San Francisco, USA",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "24-hour reception",
+      "Self-catering facilities",
+      "Common room",
+      "Security lockers",
+      "Laundry facilities",
+      "Bike parking"
+    ],
+    "check_in_time": "3:00 PM",
+    "check_out_time": "11:00 AM",
+    "cancellation_policy": "24 hours before arrival"
+  },
+  {
+    "name": "Samesun San Francisco Hostel",
+    "distance_from_venue": "2.3 miles",
+    "cost_per_night": "$40",
+    "rating": 8.9,
+    "image_url": "https://www.samesun.com/images/hostel-default.jpg",
+    "address": "1475 Lombard St, San Francisco, USA",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "24-hour reception",
+      "Laundry facilities",
+      "Common room",
+      "Self-catering facilities",
+      "Bike parking"
+    ],
+    "check_in_time": "3:00 PM",
+    "check_out_time": "11:00 AM",
+    "cancellation_policy": "48 hours before arrival"
+  },
+  {
+    "name": "Hotel Zephyr",
+    "distance_from_venue": "1.4 miles",
+    "cost_per_night": "$200",
+    "rating": 8.7,
+    "image_url": "https://www.hotelzephyrsf.com/images/hotel-default.jpg",
+    "address": "250 Beach St, San Francisco, USA",
+    "amenities": [
+      "Free WiFi",
+      "Fitness center",
+      "Business center",
+      "Laundry facilities",
+      "Pet-friendly",
+      "24-hour reception",
+      "Concierge services",
+      "Bike rental"
+    ],
+    "check_in_time": "4:00 PM",
+    "check_out_time": "12:00 PM",
+    "cancellation_policy": "48 hours before arrival"
+  }
+]
