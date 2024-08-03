@@ -81,5 +81,28 @@
     "check_in_time": "4:00 PM",
     "check_out_time": "12:00 PM",
     "cancellation_policy": "48 hours before arrival"
-  }
+  },
+  {
+  "name": "Hotel Caza Fisherman's Wharf",
+  "distance_from_venue": "1.7 miles",
+  "cost_per_night": "$149",
+  "rating": 8.4,
+  "image_url": "https://www.hotelcaza.com/images/default.jpg",
+  "address": "1300 Columbus Ave, San Francisco, USA",
+  "amenities": [
+    "Free WiFi",
+    "Outdoor swimming pool",
+    "Fitness center",
+    "Bar/lounge",
+    "Game room",
+    "Pet-friendly",
+    "24-hour reception",
+    "Laundry service",
+    "Bicycle rental",
+    "Children activities (Kid/Friendly)"
+  ],
+  "check_in_time": "4:00 PM",
+  "check_out_time": "11:00 AM",
+  "cancellation_policy": "48 hours before arrival"
+}
 ]
